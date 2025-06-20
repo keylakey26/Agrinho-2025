@@ -1,6 +1,6 @@
 #Agrinho-2025
 
-   O projeto foi idealizado para informar a importância que a interdependência entre o campo e a cidade teve no desenvolvimento da humanidade desde o período paleolítico e como continua influenciando as nossas vidas na sociedade contemporânea.
+   O projeto foi idealizado para explicar a importância que a interdependência entre o campo e a cidade teve no desenvolvimento da humanidade desde o período paleolítico e como continua influenciando as nossas vidas na sociedade contemporânea.
 
 #Busca mostrar de modo estruturado:
 
