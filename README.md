@@ -17,10 +17,10 @@
 4. Leia o índice e escolha por qual tópico gostaria de começar a sua aventura, selecionando o título do item (todos os textos possuem uma ilustração e todas podem ser ampliadas em “clique para ampliar” abaixo da imagem e/ou lidas em voz alta clicando em “Leitura de texto”)
 5. Apresenta um vídeo que possui tradução simultânea em Libras para garantir a acessibilidade a todas as pessoas, onde é explicado o conceito de interdependência do campo e da cidade.
 
-     #A produção das imagens, dos áudios, dos textos e do vídeo, todos de autoria de Keyla, foi desenhada, gravada e editada com o uso do celular. Quanto ao conteúdo dos textos e do vídeo, foram utilizados como referência textos dos sites:
+     A produção das imagens, dos áudios, dos textos e do vídeo, todos de autoria de Keyla, foi desenhada, gravada e editada com o uso do celular. Quanto ao conteúdo dos textos e do vídeo, foram utilizados como referência textos dos sites:
  brasilescola.uol.com.br, mundoeducacao.uol.com.br e prima.org.br
 
 
- Colégio Estadual José de Anchieta EFMP
- Aluna: Keyla Suzuki 
- GitHub: keylakemy26
+ - Colégio Estadual José de Anchieta EFMP
+ - Aluna: Keyla Suzuki 
+ - GitHub: keylakemy26
