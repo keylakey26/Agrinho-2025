@@ -18,11 +18,9 @@
 5. Apresenta um vídeo que possui tradução simultânea em Libras para garantir a acessibilidade a todas as pessoas, onde é explicado o conceito de interdependência do campo e da cidade.
 
      #A produção das imagens, dos áudios, dos textos e do vídeo, todos de autoria de Keyla, foi desenhada, gravada e editada com o uso do celular. Quanto ao conteúdo dos textos e do vídeo, foram utilizados como referência textos dos sites:
-1. brasilescola.uol.com.br
-2. mundoeducacao.uol.com.br
-3. prima.org.br
+ brasilescola.uol.com.br, mundoeducacao.uol.com.br e prima.org.br
 
-#Créditos
-1. Colégio Estadual José de Anchieta EFMP
-2. Aluna: Keyla Suzuki 
-3. GitHub: keylakemy26
+
+ Colégio Estadual José de Anchieta EFMP
+ Aluna: Keyla Suzuki 
+ GitHub: keylakemy26
